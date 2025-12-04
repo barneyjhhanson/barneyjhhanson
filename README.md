@@ -2,9 +2,15 @@
 ### My name is Barney.
 I’m currently learning computer science at Leeds Beckett University.
 
-I’m currently working on building my github profile and working on my python skills. 
+I am currently focusing on learning python.
 
 Pronouns: he/him
 
-How to reach me: email me at barneyhanson6@gmail.com
+Contact me [here](mailto:barneyhanson6@gmail.com)
+
+[Find my LinkedIn here](https://www.linkedin.com/in/barney-hanson-897524279/)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+
 
